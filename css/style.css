@@ -1,0 +1,15 @@
+body {
+    background-color: black;
+    color: red;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+header {
+    background-image: url("../images/steampunk-clock-faces.png");
+}
+
+video-size {
+    padding: 10px 5px 10px 5px;
+    margin-bottom: 200px;
+}

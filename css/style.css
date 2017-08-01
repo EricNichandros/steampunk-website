@@ -13,3 +13,12 @@ video-size {
     padding: 10px 5px 10px 5px;
     margin-bottom: 200px;
 }
+
+
+.video-container {
+    max-width: 80%;
+    margin: auto;
+    
+    padding-top: 20px;
+    padding-bottom: 20px;
+}

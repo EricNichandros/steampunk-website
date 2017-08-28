@@ -6,11 +6,28 @@ body {
     text-align: center;
 }
 
-.img-header {
-    max-width: 100%;
-    margin: 20.5%;
+.centered-img-container {
+    margin: auto;
+    max-width: 600px;
 }
 
+
+
+.centered-img {
+    max-width: 100%;
+}
+
+.img-full-width {
+    max-width: 1080px;
+}
+
+.img-third-width {
+    max-width: 360px;
+}
+
+.img-quarter-width {
+    max-width: 270px;
+}
 h1, h2 {
     text-align: center;
 }
